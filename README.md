@@ -3,7 +3,11 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-%23000000.svg?style=for-the-badge&logo=logo&logoColor=white)
 
-An inventory management system that integrates several AWS services, including AWS Amplify, Amazon Cognito, Amazon DynamoDB, Amazon S3, and AWS AppSync. Built with Next.js and shadcn/ui for a responsive, modern user experience.
+![preview](https://github.com/user-attachments/assets/5cf4d76a-3aa0-4c35-9cf1-6f8758e65ad1)
+
+## Overview
+
+A simple inventory management system that integrates several AWS services, including AWS Amplify, Amazon Cognito, Amazon DynamoDB, Amazon S3, and AWS AppSync. Built with Next.js and shadcn/ui for a responsive, modern user experience.
 
 Originally created for personal use, but feel free to use and adapt it as needed.
 
