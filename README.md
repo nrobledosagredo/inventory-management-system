@@ -7,7 +7,7 @@
 
 ## Overview
 
-A simple inventory management system that integrates several AWS services, including AWS Amplify, Amazon Cognito, Amazon DynamoDB, Amazon S3, and AWS AppSync. Built with Next.js and shadcn/ui for a responsive, modern user experience. 
+A simple inventory management system that integrates several AWS services, including AWS Amplify, Amazon Cognito, Amazon DynamoDB, Amazon S3, and AWS AppSync. Built with Next.js and shadcn/ui. 
 
 This project was created for learning and demonstration purposes.
 
